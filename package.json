@@ -1,0 +1,25 @@
+{
+  "name": "fireship-blockchain-in-100-seconds",
+  "version": "1.0.0",
+  "description": "Youtuber Fireship's \"Blockchain in 100 seconds\" Tutorial https://www.youtube.com/watch?v=qF7dkrce-mQ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "start": "npx ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caferino/Fireship-Blockchain-in-100-seconds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caferino/Fireship-Blockchain-in-100-seconds/issues"
+  },
+  "homepage": "https://github.com/Caferino/Fireship-Blockchain-in-100-seconds#readme",
+  "devDependencies": {
+    "@types/node": "^20.10.7",
+    "typescript": "^5.3.3"
+  }
+}
